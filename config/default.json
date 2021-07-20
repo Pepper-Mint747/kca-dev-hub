@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb://localhost:27017/kca-dev-hub",
+    "jwtSecret": "jniv94b3g84i43"
+}
